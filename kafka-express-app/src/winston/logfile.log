@@ -1,0 +1,904 @@
+2023-04-03T23:06:54.660Z [INFO] Hello, world!
+2023-04-03T23:06:54.703Z [INFO] Server listening on port 3000
+2023-04-03T23:06:54.739Z [INFO] MongoDB connected
+2023-04-03T23:13:53.460Z [INFO] Hello, world!
+2023-04-03T23:14:31.661Z [INFO] Hello, world!
+2023-04-03T23:15:57.745Z [INFO] Hello, world!
+2023-04-03T23:16:20.902Z [INFO] Hello, world!
+2023-04-03T23:17:59.704Z [INFO] Hello, world!
+2023-04-03T23:18:10.106Z [INFO] Hello, world!
+2023-04-03T23:18:50.025Z [INFO] Hello, world!
+2023-04-03T23:18:54.498Z [INFO] Server listening on port 3000
+2023-04-03T23:18:54.552Z [INFO] MongoDB connected
+2023-04-03T23:19:31.766Z [INFO] Hello, world!
+2023-04-03T23:19:31.946Z [INFO] Server listening on port 3000
+2023-04-03T23:19:31.990Z [INFO] MongoDB connected
+2023-04-03T23:19:34.171Z [INFO] Hello, world!
+2023-04-03T23:19:34.255Z [INFO] Server listening on port 3000
+2023-04-03T23:19:34.278Z [INFO] MongoDB connected
+2023-04-03T23:20:23.945Z [INFO] data saved successfully::
+2023-04-03T23:20:26.240Z [INFO] message produced to kafka
+2023-04-03T23:20:29.239Z [INFO] Consumed messages
+2023-04-03T23:20:29.278Z [INFO] materialized_view created successfully
+2023-04-03T23:27:15.273Z [INFO] Hello, world!
+2023-04-03T23:27:21.760Z [INFO] Hello, world!
+2023-04-03T23:27:21.840Z [INFO] Server listening on port 3000
+2023-04-03T23:27:21.864Z [INFO] MongoDB connected
+2023-04-03T23:29:05.321Z [INFO] Hello, world!
+2023-04-03T23:29:05.400Z [INFO] Server listening on port 3000
+2023-04-03T23:29:05.417Z [INFO] MongoDB connected
+2023-04-03T23:30:01.504Z [INFO] data saved successfully::
+2023-04-03T23:31:16.973Z [INFO] Hello, world!
+2023-04-03T23:31:19.804Z [INFO] Server listening on port 3000
+2023-04-03T23:31:19.865Z [INFO] MongoDB connected
+2023-04-03T23:31:44.925Z [INFO] Hello, world!
+2023-04-03T23:31:45.028Z [INFO] Server listening on port 3000
+2023-04-03T23:31:45.066Z [INFO] MongoDB connected
+2023-04-03T23:32:00.232Z [INFO] data saved successfully::
+2023-04-03T23:32:34.214Z [INFO] Hello, world!
+2023-04-03T23:32:38.297Z [INFO] Server listening on port 3000
+2023-04-03T23:32:38.333Z [INFO] MongoDB connected
+2023-04-03T23:32:57.737Z [INFO] data saved successfully::
+2023-04-03T23:32:58.365Z [INFO] message produced to kafka
+2023-04-03T23:33:11.018Z [INFO] Consumed messages
+2023-04-03T23:33:11.074Z [INFO] materialized_view created successfully
+2023-04-04T05:16:39.050Z [INFO] Hello, world!
+2023-04-04T05:16:40.334Z [INFO] Server listening on port 3000
+2023-04-04T05:16:40.371Z [INFO] MongoDB connected
+2023-04-04T05:16:45.771Z [INFO] Hello, world!
+2023-04-04T05:16:47.932Z [INFO] Server listening on port 3000
+2023-04-04T05:16:47.955Z [INFO] MongoDB connected
+2023-04-04T05:17:09.499Z [INFO] Hello, world!
+2023-04-04T05:17:11.039Z [INFO] Server listening on port 3000
+2023-04-04T05:17:11.101Z [INFO] MongoDB connected
+2023-04-04T05:19:30.462Z [INFO] Hello, world!
+2023-04-04T05:19:32.910Z [INFO] Server listening on port 3000
+2023-04-04T05:19:32.984Z [INFO] MongoDB connected
+2023-04-04T05:30:44.969Z [INFO] data saved successfully::
+2023-04-04T05:30:45.245Z [INFO] message produced to kafka
+2023-04-04T05:30:45.851Z [INFO] Consumed messages
+2023-04-04T05:30:45.954Z [INFO] materialized_view created successfully
+2023-04-04T05:54:36.076Z [INFO] Hello, world!
+2023-04-04T05:54:36.190Z [INFO] Server listening on port 3000
+2023-04-04T05:54:36.211Z [INFO] MongoDB connected
+2023-04-04T05:55:44.277Z [INFO] Hello, world!
+2023-04-04T05:55:44.388Z [INFO] Server listening on port 3000
+2023-04-04T05:55:44.419Z [INFO] MongoDB connected
+2023-04-04T05:56:42.423Z [INFO] Hello, world!
+2023-04-04T05:56:42.503Z [INFO] Server listening on port 3000
+2023-04-04T05:56:42.541Z [INFO] MongoDB connected
+2023-04-04T06:00:56.275Z [INFO] Hello, world!
+2023-04-04T06:00:56.394Z [INFO] Server listening on port 3000
+2023-04-04T06:00:56.419Z [INFO] MongoDB connected
+2023-04-04T06:05:38.504Z [INFO] Hello, world!
+2023-04-04T06:05:38.736Z [INFO] Server listening on port 3000
+2023-04-04T06:05:38.765Z [INFO] MongoDB connected
+2023-04-04T06:05:56.398Z [INFO] Hello, world!
+2023-04-04T06:05:56.490Z [INFO] Server listening on port 3000
+2023-04-04T06:05:56.537Z [INFO] MongoDB connected
+2023-04-04T06:06:12.089Z [INFO] Hello, world!
+2023-04-04T06:06:12.159Z [INFO] Server listening on port 3000
+2023-04-04T06:06:12.199Z [INFO] MongoDB connected
+2023-04-04T06:06:44.800Z [INFO] data saved successfully::
+2023-04-04T06:06:44.850Z [INFO] materialized_view created successfully
+2023-04-04T06:06:45.019Z [INFO] message produced to kafka
+2023-04-04T06:07:04.895Z [INFO] Consumed messages
+2023-04-04T06:15:21.949Z [INFO] Hello, world!
+2023-04-04T06:15:22.039Z [INFO] Server listening on port 3000
+2023-04-04T06:15:22.101Z [INFO] MongoDB connected
+2023-04-04T06:15:37.989Z [INFO] Hello, world!
+2023-04-04T06:15:38.060Z [INFO] Server listening on port 3000
+2023-04-04T06:15:38.082Z [INFO] MongoDB connected
+2023-04-04T06:16:09.585Z [INFO] Hello, world!
+2023-04-04T06:16:12.371Z [INFO] Server listening on port 3000
+2023-04-04T06:16:12.420Z [INFO] MongoDB connected
+2023-04-04T06:17:16.749Z [INFO] Hello, world!
+2023-04-04T06:17:16.891Z [INFO] Server listening on port 3000
+2023-04-04T06:17:16.928Z [INFO] MongoDB connected
+2023-04-04T06:17:51.546Z [INFO] data saved successfully::
+2023-04-04T06:17:51.704Z [INFO] Error creating materialized view: Cannot find index to verify that join fields will be unique
+2023-04-04T06:17:51.715Z [INFO] message produced to kafka
+2023-04-04T06:17:56.511Z [INFO] Consumed messages
+2023-04-04T06:18:53.584Z [INFO] Hello, world!
+2023-04-04T06:19:06.109Z [INFO] Server listening on port 3000
+2023-04-04T06:19:06.167Z [INFO] MongoDB connected
+2023-04-04T06:19:11.137Z [INFO] data saved successfully::
+2023-04-04T06:19:11.224Z [INFO] Error creating materialized view: Cannot find index to verify that join fields will be unique
+2023-04-04T06:19:11.330Z [INFO] message produced to kafka
+2023-04-04T06:19:36.323Z [INFO] Consumed messages
+2023-04-04T06:20:11.477Z [INFO] Hello, world!
+2023-04-04T06:20:13.682Z [INFO] Server listening on port 3000
+2023-04-04T06:20:13.760Z [INFO] MongoDB connected
+2023-04-04T06:20:48.804Z [INFO] data saved successfully::
+2023-04-04T06:20:48.916Z [INFO] Error creating materialized view: Cannot find index to verify that join fields will be unique
+2023-04-04T06:20:49.135Z [INFO] message produced to kafka
+2023-04-04T06:20:54.510Z [INFO] Consumed messages
+2023-04-04T06:21:21.394Z [INFO] Hello, world!
+2023-04-04T06:21:24.902Z [INFO] Server listening on port 3000
+2023-04-04T06:21:24.922Z [INFO] MongoDB connected
+2023-04-04T06:21:40.473Z [INFO] data saved successfully::
+2023-04-04T06:21:40.584Z [INFO] Error creating materialized view: Cannot find index to verify that join fields will be unique
+2023-04-04T06:21:41.302Z [INFO] message produced to kafka
+2023-04-04T06:21:55.127Z [INFO] Consumed messages
+2023-04-04T06:22:49.280Z [INFO] Hello, world!
+2023-04-04T06:22:49.406Z [INFO] Server listening on port 3000
+2023-04-04T06:22:49.570Z [INFO] MongoDB connected
+2023-04-04T06:23:03.201Z [INFO] Hello, world!
+2023-04-04T06:23:03.256Z [INFO] Server listening on port 3000
+2023-04-04T06:23:03.287Z [INFO] MongoDB connected
+2023-04-04T06:23:13.428Z [INFO] data saved successfully::
+2023-04-04T06:23:13.539Z [INFO] Error creating materialized view: Cannot find index to verify that join fields will be unique
+2023-04-04T06:23:13.870Z [INFO] message produced to kafka
+2023-04-04T06:24:04.196Z [INFO] Hello, world!
+2023-04-04T06:24:06.868Z [INFO] Server listening on port 3000
+2023-04-04T06:24:06.975Z [INFO] MongoDB connected
+2023-04-04T06:24:38.242Z [INFO] data saved successfully::
+2023-04-04T06:24:38.280Z [INFO] materialized_view created successfully
+2023-04-04T06:24:38.498Z [INFO] message produced to kafka
+2023-04-04T06:24:46.483Z [INFO] Consumed messages
+2023-04-04T06:24:46.512Z [INFO] Consumed messages
+2023-04-04T06:26:30.799Z [INFO] Hello, world!
+2023-04-04T06:26:30.856Z [INFO] Server listening on port 3000
+2023-04-04T06:26:30.885Z [INFO] MongoDB connected
+2023-04-04T06:28:36.823Z [INFO] data saved successfully::
+2023-04-04T06:28:36.981Z [INFO] Error creating materialized view: FieldPath field names may not start with '$'. Consider using $getField or $setField.
+2023-04-04T06:28:37.228Z [INFO] message produced to kafka
+2023-04-04T06:28:37.370Z [INFO] Consumed messages
+2023-04-04T06:39:13.554Z [INFO] Hello, world!
+2023-04-04T06:39:13.642Z [INFO] Server listening on port 3000
+2023-04-04T06:39:13.672Z [INFO] MongoDB connected
+2023-04-04T06:39:42.274Z [INFO] Hello, world!
+2023-04-04T06:39:42.431Z [INFO] Server listening on port 3000
+2023-04-04T06:39:42.454Z [INFO] MongoDB connected
+2023-04-04T06:39:55.494Z [INFO] data saved successfully::
+2023-04-04T06:39:55.600Z [INFO] Error creating materialized view: FieldPath field names may not start with '$'. Consider using $getField or $setField.
+2023-04-04T06:39:55.656Z [INFO] message produced to kafka
+2023-04-04T06:40:26.168Z [INFO] Hello, world!
+2023-04-04T06:40:26.232Z [INFO] Server listening on port 3000
+2023-04-04T06:40:26.256Z [INFO] MongoDB connected
+2023-04-04T06:40:28.183Z [INFO] data saved successfully::
+2023-04-04T06:40:28.219Z [INFO] materialized_view created successfully
+2023-04-04T06:40:28.294Z [INFO] message produced to kafka
+2023-04-04T06:41:09.948Z [INFO] Consumed messages
+2023-04-04T06:41:09.954Z [INFO] Consumed messages
+2023-04-04T07:17:22.107Z [INFO] Hello, world!
+2023-04-04T07:17:22.177Z [INFO] Server listening on port 3000
+2023-04-04T07:17:22.199Z [INFO] MongoDB connected
+2023-04-04T07:19:00.404Z [INFO] data saved successfully::
+2023-04-04T07:19:00.473Z [INFO] materialized_view created successfully
+2023-04-04T07:19:00.578Z [INFO] message produced to kafka
+2023-04-04T07:19:00.775Z [INFO] Consumed messages
+2023-04-04T07:19:31.858Z [INFO] data saved successfully::
+2023-04-04T07:19:31.867Z [INFO] materialized_view created successfully
+2023-04-04T07:19:32.122Z [INFO] message produced to kafka
+2023-04-04T07:19:32.407Z [INFO] Consumed messages
+2023-04-04T07:43:02.678Z [INFO] Hello, world!
+2023-04-04T07:43:23.550Z [INFO] Hello, world!
+2023-04-04T09:14:23.723Z [INFO] Hello, world!
+2023-04-04T09:14:23.820Z [INFO] Server listening on port 3000
+2023-04-04T09:14:23.848Z [INFO] MongoDB connected
+2023-04-04T09:14:53.538Z [INFO] data saved successfully::
+2023-04-04T09:14:53.590Z [INFO] materialized_view created successfully
+2023-04-04T09:14:53.800Z [INFO] message produced to kafka
+2023-04-04T09:14:54.125Z [INFO] Consumed messages
+2023-04-04T09:19:19.537Z [INFO] Hello, world!
+2023-04-04T09:19:21.774Z [INFO] Server listening on port 3000
+2023-04-04T09:19:21.821Z [INFO] MongoDB connected
+2023-04-04T09:19:34.250Z [INFO] Hello, world!
+2023-04-04T09:19:35.780Z [INFO] Server listening on port 3000
+2023-04-04T09:19:35.806Z [INFO] MongoDB connected
+2023-04-04T09:19:54.693Z [INFO] data saved successfully::
+2023-04-04T09:19:54.759Z [INFO] materialized_view created successfully
+2023-04-04T09:19:55.093Z [INFO] message produced to kafka
+2023-04-04T09:20:44.053Z [INFO] Hello, world!
+2023-04-04T09:20:45.501Z [INFO] Server listening on port 3000
+2023-04-04T09:20:45.528Z [INFO] MongoDB connected
+2023-04-04T09:21:25.456Z [INFO] Consumed messages
+2023-04-04T09:24:39.022Z [INFO] Hello, world!
+2023-04-04T09:24:40.664Z [INFO] Server listening on port 3000
+2023-04-04T09:24:40.688Z [INFO] MongoDB connected
+2023-04-04T09:24:43.057Z [INFO] data saved successfully::
+2023-04-04T09:24:43.146Z [INFO] Error creating materialized view: BSON field '$merge.into' is missing but a required field
+2023-04-04T09:24:43.297Z [INFO] message produced to kafka
+2023-04-04T09:25:00.231Z [INFO] Hello, world!
+2023-04-04T09:25:00.311Z [INFO] Server listening on port 3000
+2023-04-04T09:25:00.336Z [INFO] MongoDB connected
+2023-04-04T09:25:14.416Z [INFO] data saved successfully::
+2023-04-04T09:25:14.456Z [INFO] materialized_view created successfully
+2023-04-04T09:25:14.646Z [INFO] message produced to kafka
+2023-04-04T09:26:08.237Z [INFO] Consumed messages
+2023-04-04T09:26:08.273Z [INFO] Consumed messages
+2023-04-04T09:40:04.221Z [INFO] Hello, world!
+2023-04-04T09:40:05.792Z [INFO] Server listening on port 3000
+2023-04-04T09:40:05.920Z [INFO] MongoDB connected
+2023-04-04T11:21:49.489Z [INFO] Hello, world!
+2023-04-04T11:21:52.023Z [INFO] Server listening on port 3000
+2023-04-04T11:21:52.065Z [INFO] MongoDB connected
+2023-04-05T05:17:28.996Z [INFO] Hello, world!
+2023-04-05T05:17:32.011Z [INFO] Server listening on port 3000
+2023-04-05T05:17:32.083Z [INFO] MongoDB connected
+2023-04-05T05:18:16.426Z [INFO] Hello, world!
+2023-04-05T05:18:16.513Z [INFO] Server listening on port 3000
+2023-04-05T05:18:16.536Z [INFO] MongoDB connected
+2023-04-05T05:18:57.406Z [INFO] data saved successfully::
+2023-04-05T05:18:57.443Z [INFO] materialized_view created successfully
+2023-04-05T05:18:57.728Z [INFO] message produced to kafka
+2023-04-05T05:19:00.219Z [INFO] Consumed messages
+2023-04-05T05:24:26.736Z [INFO] Hello, world!
+2023-04-05T05:24:26.955Z [INFO] Server listening on port 3000
+2023-04-05T05:24:27.008Z [INFO] MongoDB connected
+2023-04-05T05:24:44.313Z [INFO] Hello, world!
+2023-04-05T05:24:48.177Z [INFO] Server listening on port 3000
+2023-04-05T05:24:48.280Z [INFO] MongoDB connected
+2023-04-05T05:25:33.494Z [INFO] Hello, world!
+2023-04-05T05:25:33.623Z [INFO] Server listening on port 3000
+2023-04-05T05:25:33.662Z [INFO] MongoDB connected
+2023-04-05T05:25:35.950Z [INFO] data saved successfully::
+2023-04-05T05:25:36.015Z [INFO] materialized_view created successfully
+2023-04-05T05:25:36.163Z [INFO] message produced to kafka
+2023-04-05T05:26:20.531Z [INFO] Consumed messages
+2023-04-05T05:26:58.107Z [INFO] Hello, world!
+2023-04-05T05:27:13.423Z [INFO] Hello, world!
+2023-04-05T05:27:13.523Z [INFO] Server listening on port 3000
+2023-04-05T05:27:13.546Z [INFO] MongoDB connected
+2023-04-05T05:34:14.564Z [INFO] Hello, world!
+2023-04-05T05:34:17.618Z [INFO] Server listening on port 3000
+2023-04-05T05:34:17.643Z [INFO] MongoDB connected
+2023-04-05T05:34:25.297Z [INFO] data saved successfully::
+2023-04-05T05:34:25.372Z [INFO] materialized_view created successfully
+2023-04-05T05:34:25.730Z [INFO] message produced to kafka
+2023-04-05T05:34:25.932Z [INFO] Consumed messages
+2023-04-05T05:38:55.168Z [INFO] Hello, world!
+2023-04-05T05:38:57.299Z [INFO] Server listening on port 3000
+2023-04-05T05:38:57.382Z [INFO] MongoDB connected
+2023-04-05T05:39:07.208Z [INFO] Hello, world!
+2023-04-05T05:39:07.312Z [INFO] Server listening on port 3000
+2023-04-05T05:39:07.334Z [INFO] MongoDB connected
+2023-04-05T07:12:03.561Z [INFO] data saved successfully::
+2023-04-05T07:12:03.640Z [INFO] materialized_view created successfully
+2023-04-05T07:12:03.821Z [INFO] message produced to kafka
+2023-04-05T07:12:04.130Z [INFO] Consumed messages
+2023-04-05T07:17:32.172Z [INFO] Hello, world!
+2023-04-05T07:17:33.830Z [INFO] Server listening on port 3000
+2023-04-05T07:17:33.860Z [INFO] MongoDB connected
+2023-04-05T07:17:47.959Z [INFO] Hello, world!
+2023-04-05T07:17:49.044Z [INFO] Server listening on port 3000
+2023-04-05T07:17:49.127Z [INFO] MongoDB connected
+2023-04-05T08:01:15.533Z [INFO] Hello, world!
+2023-04-05T08:01:19.450Z [INFO] Server listening on port 3000
+2023-04-05T08:01:19.502Z [INFO] MongoDB connected
+2023-04-05T08:01:25.829Z [INFO] Hello, world!
+2023-04-05T08:01:26.968Z [INFO] Server listening on port 3000
+2023-04-05T08:01:27.009Z [INFO] MongoDB connected
+2023-04-05T08:01:42.513Z [INFO] Hello, world!
+2023-04-05T08:01:43.896Z [INFO] Server listening on port 3000
+2023-04-05T08:01:43.927Z [INFO] MongoDB connected
+2023-04-05T08:02:15.341Z [INFO] Hello, world!
+2023-04-05T08:02:18.557Z [INFO] Server listening on port 3000
+2023-04-05T08:02:18.598Z [INFO] MongoDB connected
+2023-04-05T08:02:24.652Z [INFO] Hello, world!
+2023-04-05T08:02:26.030Z [INFO] Server listening on port 3000
+2023-04-05T08:02:26.064Z [INFO] MongoDB connected
+2023-04-05T08:02:30.419Z [INFO] data saved successfully::
+2023-04-05T08:02:30.447Z [INFO] materialized_view created successfully
+2023-04-05T08:02:30.544Z [INFO] message produced to kafka
+2023-04-05T08:03:43.084Z [INFO] Consumed messages
+2023-04-05T08:05:06.091Z [INFO] Hello, world!
+2023-04-05T08:05:07.244Z [INFO] Server listening on port 3000
+2023-04-05T08:05:07.315Z [INFO] MongoDB connected
+2023-04-05T08:05:14.635Z [INFO] data saved successfully::
+2023-04-05T08:05:14.681Z [INFO] materialized_view created successfully
+2023-04-05T08:05:14.960Z [INFO] message produced to kafka
+2023-04-05T08:05:49.592Z [INFO] Consumed messages
+2023-04-05T09:15:10.360Z [INFO] Hello, world!
+2023-04-05T09:15:10.432Z [INFO] Server listening on port 3000
+2023-04-05T09:15:10.455Z [INFO] MongoDB connected
+2023-04-05T09:36:33.439Z [INFO] Hello, world!
+2023-04-05T09:36:58.359Z [INFO] Hello, world!
+2023-04-05T09:36:58.443Z [INFO] Server listening on port 3000
+2023-04-05T09:36:58.466Z [INFO] MongoDB connected
+2023-04-05T09:41:44.074Z [INFO] data saved successfully::
+2023-04-05T09:41:44.144Z [INFO] materialized_view created successfully
+2023-04-05T09:41:44.361Z [INFO] message produced to kafka
+2023-04-05T09:41:44.543Z [INFO] Consumed messages
+2023-04-05T11:29:39.850Z [INFO] Hello, world!
+2023-04-05T11:29:43.010Z [INFO] Server listening on port 3000
+2023-04-05T11:29:43.030Z [INFO] MongoDB connected
+2023-04-05T11:30:04.720Z [INFO] Hello, world!
+2023-04-05T11:30:05.847Z [INFO] Server listening on port 3000
+2023-04-05T11:30:05.886Z [INFO] MongoDB connected
+2023-04-05T11:30:15.152Z [INFO] Hello, world!
+2023-04-05T11:30:15.217Z [INFO] Server listening on port 3000
+2023-04-05T11:30:15.241Z [INFO] MongoDB connected
+2023-04-05T11:57:52.832Z [INFO] Hello, world!
+2023-04-05T11:57:52.921Z [INFO] Server listening on port 3000
+2023-04-05T11:57:52.957Z [INFO] MongoDB connected
+2023-04-05T11:58:06.054Z [INFO] Hello, world!
+2023-04-05T11:58:07.351Z [INFO] Server listening on port 3000
+2023-04-05T11:58:07.415Z [INFO] MongoDB connected
+2023-04-05T11:58:22.135Z [INFO] data saved successfully::
+2023-04-05T11:58:22.237Z [INFO] Error creating materialized view: A pipeline stage specification object must contain exactly one field.
+2023-04-05T11:58:22.316Z [INFO] message produced to kafka
+2023-04-05T11:58:46.579Z [INFO] Consumed messages
+2023-04-05T11:58:59.532Z [INFO] Hello, world!
+2023-04-05T11:59:01.059Z [INFO] Server listening on port 3000
+2023-04-05T11:59:01.084Z [INFO] MongoDB connected
+2023-04-05T11:59:10.192Z [INFO] data saved successfully::
+2023-04-05T11:59:10.301Z [INFO] Error creating materialized view: A pipeline stage specification object must contain exactly one field.
+2023-04-05T11:59:10.363Z [INFO] message produced to kafka
+2023-04-05T11:59:36.755Z [INFO] Hello, world!
+2023-04-05T11:59:38.043Z [INFO] Server listening on port 3000
+2023-04-05T11:59:38.086Z [INFO] MongoDB connected
+2023-04-05T11:59:48.719Z [INFO] Hello, world!
+2023-04-05T11:59:49.825Z [INFO] Server listening on port 3000
+2023-04-05T11:59:49.847Z [INFO] MongoDB connected
+2023-04-05T11:59:57.587Z [INFO] Hello, world!
+2023-04-05T11:59:58.812Z [INFO] Server listening on port 3000
+2023-04-05T11:59:58.848Z [INFO] MongoDB connected
+2023-04-05T12:00:05.760Z [INFO] Hello, world!
+2023-04-05T12:00:05.829Z [INFO] Server listening on port 3000
+2023-04-05T12:00:05.856Z [INFO] MongoDB connected
+2023-04-05T12:00:10.124Z [INFO] data saved successfully::
+2023-04-05T12:00:10.238Z [INFO] Error creating materialized view: A pipeline stage specification object must contain exactly one field.
+2023-04-05T12:00:10.394Z [INFO] message produced to kafka
+2023-04-05T12:01:21.159Z [INFO] Consumed messages
+2023-04-05T12:01:21.168Z [INFO] Consumed messages
+2023-04-05T12:01:39.756Z [INFO] Hello, world!
+2023-04-05T12:01:52.998Z [INFO] Hello, world!
+2023-04-05T12:01:53.831Z [INFO] Server listening on port 3000
+2023-04-05T12:01:53.872Z [INFO] MongoDB connected
+2023-04-05T12:02:26.943Z [INFO] data saved successfully::
+2023-04-05T12:02:26.987Z [INFO] materialized_view created successfully
+2023-04-05T12:02:27.297Z [INFO] message produced to kafka
+2023-04-05T12:02:28.634Z [INFO] Consumed messages
+2023-04-05T12:03:12.111Z [INFO] Hello, world!
+2023-04-05T12:03:13.175Z [INFO] Hello, world!
+2023-04-05T12:03:13.261Z [INFO] Server listening on port 3000
+2023-04-05T12:03:13.287Z [INFO] MongoDB connected
+2023-04-05T12:04:26.801Z [INFO] Hello, world!
+2023-04-05T12:04:55.707Z [INFO] Hello, world!
+2023-04-05T12:06:55.222Z [INFO] Hello, world!
+2023-04-05T12:06:58.188Z [INFO] Server listening on port 3000
+2023-04-05T12:06:58.208Z [INFO] MongoDB connected
+2023-04-05T12:07:52.282Z [INFO] Hello, world!
+2023-04-05T12:07:52.365Z [INFO] Server listening on port 3000
+2023-04-05T12:07:52.391Z [INFO] MongoDB connected
+2023-04-05T12:08:08.623Z [INFO] Hello, world!
+2023-04-05T12:08:08.720Z [INFO] Server listening on port 3000
+2023-04-05T12:08:08.756Z [INFO] MongoDB connected
+2023-04-05T12:08:22.865Z [INFO] Hello, world!
+2023-04-05T12:08:22.944Z [INFO] Server listening on port 3000
+2023-04-05T12:08:22.970Z [INFO] MongoDB connected
+2023-04-05T12:08:37.541Z [INFO] Hello, world!
+2023-04-05T12:08:37.613Z [INFO] Server listening on port 3000
+2023-04-05T12:08:37.658Z [INFO] MongoDB connected
+2023-04-05T12:08:46.242Z [INFO] Hello, world!
+2023-04-05T12:08:46.297Z [INFO] Server listening on port 3000
+2023-04-05T12:08:46.320Z [INFO] MongoDB connected
+2023-04-05T12:10:00.675Z [INFO] Hello, world!
+2023-04-05T12:10:52.345Z [INFO] Hello, world!
+2023-04-05T12:10:52.399Z [INFO] Server listening on port 3000
+2023-04-05T12:10:52.418Z [INFO] MongoDB connected
+2023-04-05T12:12:20.834Z [INFO] Hello, world!
+2023-04-05T12:12:20.916Z [INFO] Server listening on port 3000
+2023-04-05T12:12:20.938Z [INFO] MongoDB connected
+2023-04-05T12:15:45.604Z [INFO] Hello, world!
+2023-04-05T12:17:52.929Z [INFO] Hello, world!
+2023-04-05T12:21:29.458Z [INFO] Hello, world!
+2023-04-05T12:21:31.657Z [INFO] Server listening on port 3000
+2023-04-05T12:21:31.682Z [INFO] MongoDB connected
+2023-04-05T12:21:50.474Z [INFO] data saved successfully::
+2023-04-05T12:21:50.707Z [INFO] message produced to kafka
+2023-04-05T12:21:50.825Z [INFO] Consumed messages
+2023-04-05T12:31:46.327Z [INFO] Hello, world!
+2023-04-05T12:31:53.495Z [INFO] Hello, world!
+2023-04-05T12:31:58.871Z [INFO] Hello, world!
+2023-04-05T12:32:01.856Z [INFO] Server listening on port 3000
+2023-04-05T12:32:01.892Z [INFO] MongoDB connected
+2023-04-05T12:33:50.196Z [INFO] Hello, world!
+2023-04-05T12:34:09.634Z [INFO] Hello, world!
+2023-04-05T12:34:09.725Z [INFO] Server listening on port 3000
+2023-04-05T12:34:09.750Z [INFO] MongoDB connected
+2023-04-05T12:34:24.122Z [INFO] Hello, world!
+2023-04-05T12:34:24.206Z [INFO] Server listening on port 3000
+2023-04-05T12:34:24.230Z [INFO] MongoDB connected
+2023-04-05T12:34:30.313Z [INFO] Hello, world!
+2023-04-05T12:34:31.817Z [INFO] Server listening on port 3000
+2023-04-05T12:34:31.850Z [INFO] MongoDB connected
+2023-04-05T12:34:37.732Z [INFO] data saved successfully::
+2023-04-05T13:38:39.597Z [INFO] Hello, world!
+2023-04-05T13:38:42.037Z [INFO] Hello, world!
+2023-04-05T13:38:56.614Z [INFO] Hello, world!
+2023-04-05T13:38:56.709Z [INFO] Server listening on port 3000
+2023-04-05T13:38:56.742Z [INFO] MongoDB connected
+2023-04-05T13:39:16.533Z [INFO] Hello, world!
+2023-04-05T13:39:16.588Z [INFO] Server listening on port 3000
+2023-04-05T13:39:16.611Z [INFO] MongoDB connected
+2023-04-05T13:39:42.728Z [INFO] Hello, world!
+2023-04-05T13:39:54.737Z [INFO] Hello, world!
+2023-04-05T13:40:37.393Z [INFO] Hello, world!
+2023-04-05T13:40:40.319Z [INFO] Server listening on port 3000
+2023-04-05T13:40:40.359Z [INFO] MongoDB connected
+2023-04-05T13:40:46.643Z [INFO] data saved successfully::
+2023-04-05T13:40:46.712Z [INFO] materialized_view created successfully
+2023-04-05T13:40:46.731Z [INFO] message produced to kafka
+2023-04-05T13:40:46.865Z [INFO] Consumed messages
+2023-04-05T13:59:01.584Z [INFO] Hello, world!
+2023-04-05T13:59:03.426Z [INFO] Server listening on port 3000
+2023-04-05T13:59:03.471Z [INFO] MongoDB connected
+2023-04-05T13:59:11.341Z [INFO] Hello, world!
+2023-04-05T13:59:12.604Z [INFO] Server listening on port 3000
+2023-04-05T13:59:12.629Z [INFO] MongoDB connected
+2023-04-05T13:59:17.124Z [INFO] data saved successfully::
+2023-04-05T13:59:17.180Z [INFO] materialized_view created successfully
+2023-04-05T13:59:17.331Z [INFO] message produced to kafka
+2023-04-05T14:00:12.690Z [INFO] Hello, world!
+2023-04-05T14:00:12.747Z [INFO] Server listening on port 3000
+2023-04-05T14:00:12.764Z [INFO] MongoDB connected
+2023-04-05T14:00:22.464Z [INFO] data saved successfully::
+2023-04-05T14:00:22.491Z [INFO] materialized_view created successfully
+2023-04-05T14:00:22.967Z [INFO] message produced to kafka
+2023-04-05T14:00:47.856Z [INFO] Consumed messages
+2023-04-05T14:00:47.869Z [INFO] Consumed messages
+2023-04-05T14:01:02.939Z [INFO] Hello, world!
+2023-04-05T14:01:03.006Z [INFO] Server listening on port 3000
+2023-04-05T14:01:03.026Z [INFO] MongoDB connected
+2023-04-05T14:02:24.460Z [INFO] Hello, world!
+2023-04-05T14:05:31.507Z [INFO] Hello, world!
+2023-04-05T14:05:34.347Z [INFO] Server listening on port 3000
+2023-04-05T14:05:34.389Z [INFO] MongoDB connected
+2023-04-05T14:06:05.796Z [INFO] Hello, world!
+2023-04-05T14:06:05.851Z [INFO] Server listening on port 3000
+2023-04-05T14:06:05.886Z [INFO] MongoDB connected
+2023-04-05T14:10:38.659Z [INFO] Hello, world!
+2023-04-05T14:10:39.967Z [INFO] Server listening on port 3000
+2023-04-05T14:10:39.996Z [INFO] MongoDB connected
+2023-04-05T14:11:10.297Z [INFO] Hello, world!
+2023-04-05T14:11:11.583Z [INFO] Server listening on port 3000
+2023-04-05T14:11:11.617Z [INFO] MongoDB connected
+2023-04-05T14:11:21.781Z [INFO] Hello, world!
+2023-04-05T14:11:22.620Z [INFO] Server listening on port 3000
+2023-04-05T14:11:22.644Z [INFO] MongoDB connected
+2023-04-05T14:11:27.931Z [INFO] data saved successfully::
+2023-04-05T14:11:27.974Z [INFO] materialized_view created successfully
+2023-04-05T14:11:28.510Z [INFO] message produced to kafka
+2023-04-05T14:12:01.074Z [INFO] Hello, world!
+2023-04-05T14:12:27.649Z [INFO] Hello, world!
+2023-04-05T14:12:34.912Z [INFO] Hello, world!
+2023-04-05T14:12:34.995Z [INFO] Server listening on port 3000
+2023-04-05T14:12:35.025Z [INFO] MongoDB connected
+2023-04-05T14:12:51.876Z [INFO] Consumed messages
+2023-04-05T14:13:23.597Z [INFO] Hello, world!
+2023-04-05T14:13:25.899Z [INFO] Server listening on port 3000
+2023-04-05T14:13:25.923Z [INFO] MongoDB connected
+2023-04-05T14:14:38.620Z [INFO] Hello, world!
+2023-04-05T14:14:39.585Z [INFO] Server listening on port 3000
+2023-04-05T14:14:39.610Z [INFO] MongoDB connected
+2023-04-05T14:14:48.080Z [INFO] data saved successfully::
+2023-04-05T14:14:48.136Z [INFO] materialized_view created successfully
+2023-04-05T14:14:48.189Z [INFO] message produced to kafka
+2023-04-05T14:15:14.297Z [INFO] Hello, world!
+2023-04-05T14:15:14.372Z [INFO] Server listening on port 3000
+2023-04-05T14:15:14.393Z [INFO] MongoDB connected
+2023-04-05T14:16:07.495Z [INFO] Consumed messages
+2023-04-05T14:19:36.876Z [INFO] Hello, world!
+2023-04-05T14:19:45.476Z [INFO] Hello, world!
+2023-04-05T14:19:50.334Z [INFO] Hello, world!
+2023-04-05T14:19:53.236Z [INFO] Server listening on port 3000
+2023-04-05T14:19:53.277Z [INFO] MongoDB connected
+2023-04-05T14:20:06.669Z [INFO] Hello, world!
+2023-04-05T14:20:08.074Z [INFO] Server listening on port 3000
+2023-04-05T14:20:08.125Z [INFO] MongoDB connected
+2023-04-05T14:21:17.844Z [INFO] Hello, world!
+2023-04-05T14:21:20.046Z [INFO] Server listening on port 3000
+2023-04-05T14:21:20.067Z [INFO] MongoDB connected
+2023-04-05T14:21:27.604Z [INFO] data saved successfully::
+2023-04-05T14:21:27.912Z [INFO] message produced to kafka
+2023-04-05T14:21:28.009Z [INFO] Consumed messages
+2023-04-05T14:22:04.706Z [INFO] data saved successfully::
+2023-04-05T14:22:04.944Z [INFO] message produced to kafka
+2023-04-05T14:22:05.514Z [INFO] Consumed messages
+2023-04-05T14:22:36.318Z [INFO] data saved successfully::
+2023-04-05T14:22:36.534Z [INFO] message produced to kafka
+2023-04-05T14:22:37.017Z [INFO] Consumed messages
+2023-04-05T14:24:03.137Z [INFO] Hello, world!
+2023-04-05T14:24:03.235Z [INFO] Server listening on port 3000
+2023-04-05T14:24:03.256Z [INFO] MongoDB connected
+2023-04-05T14:24:14.458Z [INFO] data saved successfully::
+2023-04-05T14:24:14.571Z [INFO] message produced to kafka
+2023-04-05T14:24:44.481Z [INFO] Consumed messages
+2023-04-05T14:25:06.294Z [INFO] Hello, world!
+2023-04-05T14:25:06.358Z [INFO] Server listening on port 3000
+2023-04-05T14:25:06.382Z [INFO] MongoDB connected
+2023-04-05T14:25:25.083Z [INFO] data saved successfully::
+2023-04-05T14:25:25.345Z [INFO] message produced to kafka
+2023-04-05T14:26:05.719Z [INFO] Hello, world!
+2023-04-05T14:26:05.821Z [INFO] Server listening on port 3000
+2023-04-05T14:26:05.859Z [INFO] MongoDB connected
+2023-04-05T14:26:41.693Z [INFO] Hello, world!
+2023-04-05T14:26:43.581Z [INFO] Server listening on port 3000
+2023-04-05T14:26:43.602Z [INFO] MongoDB connected
+2023-04-05T14:26:58.161Z [INFO] data saved successfully::
+2023-04-05T14:26:58.395Z [INFO] message produced to kafka
+2023-04-05T14:27:18.508Z [INFO] Consumed messages
+2023-04-05T14:27:18.514Z [INFO] Consumed messages
+2023-04-05T14:27:34.272Z [INFO] Hello, world!
+2023-04-05T14:27:35.621Z [INFO] Server listening on port 3000
+2023-04-05T14:27:35.649Z [INFO] MongoDB connected
+2023-04-05T14:28:37.831Z [INFO] data saved successfully::
+2023-04-05T14:28:37.910Z [INFO] materialized_view created successfully
+2023-04-05T14:28:38.130Z [INFO] message produced to kafka
+2023-04-05T14:28:38.338Z [INFO] Consumed messages
+2023-04-05T14:45:47.197Z [INFO] Hello, world!
+2023-04-05T14:45:47.244Z [INFO] Server listening on port 3000
+2023-04-05T14:45:47.267Z [INFO] MongoDB connected
+2023-04-05T14:45:57.842Z [INFO] Hello, world!
+2023-04-05T14:45:57.908Z [INFO] Server listening on port 3000
+2023-04-05T14:45:57.924Z [INFO] MongoDB connected
+2023-04-05T14:46:14.806Z [INFO] data saved successfully::
+2023-04-05T14:46:14.855Z [INFO] materialized_view created successfully
+2023-04-05T14:46:15.059Z [INFO] message produced to kafka
+2023-04-05T14:47:16.420Z [INFO] Consumed messages
+2023-04-05T14:51:00.105Z [INFO] Hello, world!
+2023-04-05T14:51:00.222Z [INFO] Server listening on port 3000
+2023-04-05T14:51:00.280Z [INFO] MongoDB connected
+2023-04-05T14:51:42.055Z [INFO] Hello, world!
+2023-04-05T14:51:43.956Z [INFO] Server listening on port 3000
+2023-04-05T14:51:43.993Z [INFO] MongoDB connected
+2023-04-05T14:51:50.739Z [INFO] Hello, world!
+2023-04-05T14:51:52.083Z [INFO] Server listening on port 3000
+2023-04-05T14:51:52.153Z [INFO] MongoDB connected
+2023-04-05T14:52:07.796Z [INFO] Hello, world!
+2023-04-05T14:52:07.860Z [INFO] Server listening on port 3000
+2023-04-05T14:52:07.883Z [INFO] MongoDB connected
+2023-04-05T14:52:18.733Z [INFO] Hello, world!
+2023-04-05T14:52:18.807Z [INFO] Server listening on port 3000
+2023-04-05T14:52:18.838Z [INFO] MongoDB connected
+2023-04-05T14:52:42.270Z [INFO] Hello, world!
+2023-04-05T14:52:43.397Z [INFO] Server listening on port 3000
+2023-04-05T14:52:43.417Z [INFO] MongoDB connected
+2023-04-05T14:53:03.451Z [INFO] Hello, world!
+2023-04-05T14:53:03.498Z [INFO] Server listening on port 3000
+2023-04-05T14:53:03.514Z [INFO] MongoDB connected
+2023-04-05T14:53:12.335Z [INFO] data saved successfully::
+2023-04-05T14:53:12.359Z [INFO] materialized_view created successfully
+2023-04-05T14:53:12.722Z [INFO] message produced to kafka
+2023-04-05T14:53:44.716Z [INFO] data saved successfully::
+2023-04-05T14:53:44.727Z [INFO] materialized_view created successfully
+2023-04-05T14:53:45.252Z [INFO] message produced to kafka
+2023-04-05T14:54:13.784Z [INFO] Consumed messages
+2023-04-05T14:54:13.860Z [INFO] Consumed messages
+2023-04-05T18:28:09.829Z [INFO] Hello, world!
+2023-04-05T18:28:09.878Z [INFO] Server listening on port 3000
+2023-04-05T18:28:09.899Z [INFO] MongoDB connected
+2023-04-05T18:28:40.509Z [INFO] Hello, world!
+2023-04-05T18:28:41.631Z [INFO] Server listening on port 3000
+2023-04-05T18:28:41.667Z [INFO] MongoDB connected
+2023-04-05T18:29:14.854Z [INFO] Hello, world!
+2023-04-05T18:29:16.295Z [INFO] Server listening on port 3000
+2023-04-05T18:29:16.408Z [INFO] MongoDB connected
+2023-04-05T18:29:46.963Z [INFO] Hello, world!
+2023-04-05T18:29:48.352Z [INFO] Server listening on port 3000
+2023-04-05T18:29:48.382Z [INFO] MongoDB connected
+2023-04-05T18:29:57.838Z [INFO] data saved successfully::
+2023-04-05T18:29:57.912Z [INFO] Error creating materialized view: Expression $gte takes exactly 2 arguments. 1 were passed in.
+2023-04-05T18:33:59.355Z [INFO] Hello, world!
+2023-04-05T18:33:59.411Z [INFO] Server listening on port 3000
+2023-04-05T18:33:59.432Z [INFO] MongoDB connected
+2023-04-05T18:34:30.177Z [INFO] Hello, world!
+2023-04-05T18:34:33.287Z [INFO] Server listening on port 3000
+2023-04-05T18:34:33.328Z [INFO] MongoDB connected
+2023-04-05T18:35:17.246Z [INFO] Hello, world!
+2023-04-05T18:35:18.392Z [INFO] Server listening on port 3000
+2023-04-05T18:35:18.447Z [INFO] MongoDB connected
+2023-04-05T18:35:42.533Z [INFO] data saved successfully::
+2023-04-05T18:35:42.610Z [INFO] Error creating materialized view: Unrecognized expression '$age'
+2023-04-05T18:35:42.789Z [INFO] message produced to kafka
+2023-04-05T18:40:24.006Z [INFO] Hello, world!
+2023-04-05T18:40:25.423Z [INFO] Server listening on port 3000
+2023-04-05T18:40:25.449Z [INFO] MongoDB connected
+2023-04-05T18:40:55.764Z [INFO] data saved successfully::
+2023-04-05T18:40:55.803Z [INFO] materialized_view created successfully
+2023-04-05T18:41:31.093Z [INFO] Hello, world!
+2023-04-05T18:41:31.162Z [INFO] Server listening on port 3000
+2023-04-05T18:41:31.192Z [INFO] MongoDB connected
+2023-04-05T18:42:02.020Z [INFO] Hello, world!
+2023-04-05T18:42:04.264Z [INFO] Server listening on port 3000
+2023-04-05T18:42:04.285Z [INFO] MongoDB connected
+2023-04-05T18:43:12.651Z [INFO] Hello, world!
+2023-04-05T18:43:12.741Z [INFO] Server listening on port 3000
+2023-04-05T18:43:12.780Z [INFO] MongoDB connected
+2023-04-05T18:43:29.442Z [INFO] Hello, world!
+2023-04-05T18:43:29.498Z [INFO] Server listening on port 3000
+2023-04-05T18:43:29.521Z [INFO] MongoDB connected
+2023-04-05T18:44:01.885Z [INFO] Hello, world!
+2023-04-05T18:44:01.966Z [INFO] Server listening on port 3000
+2023-04-05T18:44:02.003Z [INFO] MongoDB connected
+2023-04-05T18:54:22.851Z [INFO] Hello, world!
+2023-04-05T18:54:25.008Z [INFO] Server listening on port 3000
+2023-04-05T18:54:25.023Z [INFO] MongoDB connected
+2023-04-05T18:54:42.393Z [INFO] Consumed messages
+2023-04-05T18:56:02.862Z [INFO] data saved successfully::
+2023-04-05T18:56:02.941Z [INFO] materialized_view created successfully
+2023-04-05T18:56:03.105Z [INFO] message produced to kafka
+2023-04-05T18:56:03.405Z [INFO] Consumed messages
+2023-04-05T18:57:56.126Z [INFO] Hello, world!
+2023-04-05T18:57:56.193Z [INFO] Server listening on port 3000
+2023-04-05T18:57:56.214Z [INFO] MongoDB connected
+2023-04-05T18:58:26.895Z [INFO] Hello, world!
+2023-04-05T18:58:29.246Z [INFO] Server listening on port 3000
+2023-04-05T18:58:29.267Z [INFO] MongoDB connected
+2023-04-05T18:59:49.571Z [INFO] Hello, world!
+2023-04-05T18:59:49.639Z [INFO] Server listening on port 3000
+2023-04-05T18:59:49.658Z [INFO] MongoDB connected
+2023-04-05T19:00:39.083Z [INFO] Hello, world!
+2023-04-05T19:00:40.281Z [INFO] Server listening on port 3000
+2023-04-05T19:00:40.339Z [INFO] MongoDB connected
+2023-04-05T19:01:03.757Z [INFO] Hello, world!
+2023-04-05T19:01:05.097Z [INFO] Server listening on port 3000
+2023-04-05T19:01:05.153Z [INFO] MongoDB connected
+2023-04-05T19:01:31.270Z [INFO] Hello, world!
+2023-04-05T19:01:31.360Z [INFO] Server listening on port 3000
+2023-04-05T19:01:31.387Z [INFO] MongoDB connected
+2023-04-05T19:01:38.811Z [INFO] Hello, world!
+2023-04-05T19:01:39.907Z [INFO] Server listening on port 3000
+2023-04-05T19:01:39.929Z [INFO] MongoDB connected
+2023-04-05T19:02:10.910Z [INFO] Hello, world!
+2023-04-05T19:02:12.795Z [INFO] Server listening on port 3000
+2023-04-05T19:02:12.837Z [INFO] MongoDB connected
+2023-04-05T19:02:50.832Z [INFO] Hello, world!
+2023-04-05T19:02:50.893Z [INFO] Server listening on port 3000
+2023-04-05T19:02:50.912Z [INFO] MongoDB connected
+2023-04-05T19:02:57.924Z [INFO] Hello, world!
+2023-04-05T19:02:58.004Z [INFO] Server listening on port 3000
+2023-04-05T19:02:58.022Z [INFO] MongoDB connected
+2023-04-05T19:05:26.975Z [INFO] data saved successfully::
+2023-04-05T19:05:27.019Z [INFO] materialized_view created successfully
+2023-04-05T19:05:34.983Z [INFO] message produced to kafka
+2023-04-05T19:05:37.329Z [INFO] Message Consuming Started 
+2023-04-05T19:06:34.262Z [INFO] Hello, world!
+2023-04-05T19:06:34.318Z [INFO] Server listening on port 3000
+2023-04-05T19:06:34.335Z [INFO] MongoDB connected
+2023-04-05T19:07:25.771Z [INFO] Hello, world!
+2023-04-05T19:07:25.819Z [INFO] Server listening on port 3000
+2023-04-05T19:07:25.839Z [INFO] MongoDB connected
+2023-04-05T19:16:59.830Z [INFO] Hello, world!
+2023-04-05T19:16:59.916Z [INFO] Server listening on port 3000
+2023-04-05T19:16:59.936Z [INFO] MongoDB connected
+2023-04-05T19:17:07.489Z [INFO] Hello, world!
+2023-04-05T19:17:07.540Z [INFO] Server listening on port 3000
+2023-04-05T19:17:07.561Z [INFO] MongoDB connected
+2023-04-05T19:37:29.723Z [INFO] Hello, world!
+2023-04-05T19:37:31.304Z [INFO] Server listening on port 3000
+2023-04-05T19:37:31.341Z [INFO] MongoDB connected
+2023-04-05T19:38:07.476Z [INFO] Hello, world!
+2023-04-05T19:38:09.239Z [INFO] Server listening on port 3000
+2023-04-05T19:38:09.260Z [INFO] MongoDB connected
+2023-04-05T19:38:17.975Z [INFO] Hello, world!
+2023-04-05T19:38:18.039Z [INFO] Server listening on port 3000
+2023-04-05T19:38:18.058Z [INFO] MongoDB connected
+2023-04-05T19:38:56.192Z [INFO] Hello, world!
+2023-04-05T19:39:24.084Z [INFO] Hello, world!
+2023-04-05T19:39:24.133Z [INFO] Server listening on port 3000
+2023-04-05T19:39:24.149Z [INFO] MongoDB connected
+2023-04-05T19:39:37.742Z [INFO] Hello, world!
+2023-04-05T19:39:37.788Z [INFO] Server listening on port 3000
+2023-04-05T19:39:37.812Z [INFO] MongoDB connected
+2023-04-05T19:40:00.254Z [INFO] Hello, world!
+2023-04-05T19:40:00.303Z [INFO] Server listening on port 3000
+2023-04-05T19:40:00.329Z [INFO] MongoDB connected
+2023-04-05T19:40:27.432Z [INFO] Hello, world!
+2023-04-05T19:40:30.213Z [INFO] Server listening on port 3000
+2023-04-05T19:40:30.237Z [INFO] MongoDB connected
+2023-04-05T19:40:35.950Z [INFO] data saved successfully::
+2023-04-05T19:40:36.001Z [INFO] materialized_view created successfully
+2023-04-05T19:41:38.249Z [INFO] Hello, world!
+2023-04-05T19:41:38.297Z [INFO] Server listening on port 3000
+2023-04-05T19:41:38.317Z [INFO] MongoDB connected
+2023-04-05T19:42:05.037Z [INFO] Hello, world!
+2023-04-05T19:42:05.095Z [INFO] Server listening on port 3000
+2023-04-05T19:42:05.116Z [INFO] MongoDB connected
+2023-04-05T19:44:25.494Z [INFO] Hello, world!
+2023-04-05T19:44:25.538Z [INFO] Server listening on port 3000
+2023-04-05T19:44:25.561Z [INFO] MongoDB connected
+2023-04-05T19:44:42.943Z [INFO] Hello, world!
+2023-04-05T19:44:43.014Z [INFO] Server listening on port 3000
+2023-04-05T19:44:43.036Z [INFO] MongoDB connected
+2023-04-05T19:44:50.495Z [INFO] Hello, world!
+2023-04-05T19:44:50.545Z [INFO] Server listening on port 3000
+2023-04-05T19:44:50.566Z [INFO] MongoDB connected
+2023-04-05T19:45:49.249Z [INFO] Hello, world!
+2023-04-05T19:47:15.634Z [INFO] Hello, world!
+2023-04-05T19:49:24.412Z [INFO] Hello, world!
+2023-04-05T19:49:24.502Z [INFO] Server listening on port 3000
+2023-04-05T19:49:24.524Z [INFO] MongoDB connected
+2023-04-05T19:49:41.045Z [INFO] Hello, world!
+2023-04-05T19:50:00.314Z [INFO] Hello, world!
+2023-04-05T19:51:24.580Z [INFO] Hello, world!
+2023-04-05T19:51:24.659Z [INFO] Server listening on port 3000
+2023-04-05T19:51:24.661Z [INFO] Server listening on port 3000
+2023-04-05T19:51:24.684Z [INFO] MongoDB connected
+2023-04-05T19:51:38.562Z [INFO] Hello, world!
+2023-04-05T19:53:08.968Z [INFO] Hello, world!
+2023-04-05T19:53:09.052Z [INFO] Server listening on port 3000
+2023-04-05T19:53:09.075Z [INFO] MongoDB connected
+2023-04-05T19:53:09.409Z [INFO] Server listening on port 3000
+2023-04-05T19:53:18.890Z [INFO] Hello, world!
+2023-04-05T19:53:20.919Z [INFO] Server listening on port 3000
+2023-04-05T19:53:20.938Z [INFO] MongoDB connected
+2023-04-05T19:53:21.068Z [INFO] Server listening on port 3000
+2023-04-05T19:53:42.931Z [INFO] Hello, world!
+2023-04-05T19:53:42.989Z [INFO] Server listening on port 3000
+2023-04-05T19:53:43.005Z [INFO] MongoDB connected
+2023-04-05T19:54:14.212Z [INFO] Hello, world!
+2023-04-05T19:54:14.273Z [INFO] Server listening on port 3000
+2023-04-05T19:54:14.288Z [INFO] MongoDB connected
+2023-04-05T19:54:33.005Z [INFO] Hello, world!
+2023-04-05T19:54:35.090Z [INFO] Server listening on port 3000
+2023-04-05T19:54:35.106Z [INFO] MongoDB connected
+2023-04-05T19:55:15.564Z [INFO] data saved successfully::
+2023-04-05T19:55:15.607Z [INFO] materialized_view created successfully
+2023-04-05T19:55:25.038Z [INFO] message produced to kafka
+2023-04-05T19:56:50.124Z [INFO] Hello, world!
+2023-04-05T19:56:50.188Z [INFO] Server listening on port 3000
+2023-04-05T19:56:50.205Z [INFO] MongoDB connected
+2023-04-05T19:56:59.590Z [INFO] consumed message: 
+2023-04-05T19:57:09.453Z [INFO] Hello, world!
+2023-04-05T19:57:09.524Z [INFO] Server listening on port 3000
+2023-04-05T19:57:09.543Z [INFO] MongoDB connected
+2023-04-05T19:57:42.585Z [INFO] Hello, world!
+2023-04-05T19:57:42.638Z [INFO] Server listening on port 3000
+2023-04-05T19:57:42.654Z [INFO] MongoDB connected
+2023-04-06T05:17:16.959Z [INFO] Hello, world!
+2023-04-06T05:17:20.160Z [INFO] Server listening on port 3000
+2023-04-06T05:17:20.212Z [INFO] MongoDB connected
+2023-04-06T05:26:05.124Z [INFO] Hello, world!
+2023-04-06T05:26:05.230Z [INFO] Server listening on port 3000
+2023-04-06T05:26:05.276Z [INFO] MongoDB connected
+2023-04-06T05:26:12.784Z [INFO] Hello, world!
+2023-04-06T05:26:12.878Z [INFO] Server listening on port 3000
+2023-04-06T05:26:12.905Z [INFO] MongoDB connected
+2023-04-06T05:26:14.911Z [INFO] data saved successfully::
+2023-04-06T05:26:14.997Z [INFO] materialized_view created successfully
+2023-04-06T05:26:15.046Z [INFO] message produced to kafka
+2023-04-06T05:26:24.072Z [INFO] data saved successfully::
+2023-04-06T05:26:24.132Z [INFO] materialized_view created successfully
+2023-04-06T05:26:24.258Z [INFO] message produced to kafka
+2023-04-06T05:26:46.773Z [INFO] Hello, world!
+2023-04-06T05:26:46.849Z [INFO] Server listening on port 3000
+2023-04-06T05:26:46.867Z [INFO] MongoDB connected
+2023-04-06T05:26:48.082Z [INFO] data saved successfully::
+2023-04-06T05:26:48.188Z [INFO] materialized_view created successfully
+2023-04-06T05:26:48.384Z [INFO] message produced to kafka
+2023-04-06T05:27:36.265Z [INFO] data saved successfully::
+2023-04-06T05:27:36.378Z [INFO] materialized_view created successfully
+2023-04-06T05:27:36.495Z [INFO] message produced to kafka
+2023-04-06T05:27:39.654Z [INFO] consumed message: 
+2023-04-06T05:27:39.655Z [INFO] consumed message: 
+2023-04-06T05:27:39.656Z [INFO] consumed message: 
+2023-04-06T05:27:39.923Z [INFO] consumed message: 
+2023-04-06T05:28:47.227Z [INFO] Hello, world!
+2023-04-06T05:28:47.309Z [INFO] Server listening on port 3000
+2023-04-06T05:28:47.328Z [INFO] MongoDB connected
+2023-04-06T05:28:53.272Z [INFO] data saved successfully::
+2023-04-06T05:28:53.376Z [INFO] materialized_view created successfully
+2023-04-06T05:28:53.533Z [INFO] message produced to kafka
+2023-04-06T05:30:58.675Z [INFO] Hello, world!
+2023-04-06T05:31:01.082Z [INFO] Server listening on port 3000
+2023-04-06T05:31:01.146Z [INFO] MongoDB connected
+2023-04-06T05:31:05.425Z [INFO] data saved successfully::
+2023-04-06T05:31:05.498Z [INFO] materialized_view created successfully
+2023-04-06T05:31:05.563Z [INFO] message produced to kafka
+2023-04-06T05:31:05.854Z [INFO] consumed message: 
+2023-04-06T05:31:58.658Z [INFO] Hello, world!
+2023-04-06T05:31:58.783Z [INFO] Server listening on port 3000
+2023-04-06T05:31:58.837Z [INFO] MongoDB connected
+2023-04-06T05:32:08.350Z [INFO] Hello, world!
+2023-04-06T05:32:08.427Z [INFO] Server listening on port 3000
+2023-04-06T05:32:08.447Z [INFO] MongoDB connected
+2023-04-06T05:32:15.670Z [INFO] data saved successfully::
+2023-04-06T05:32:15.742Z [INFO] materialized_view created successfully
+2023-04-06T05:32:16.133Z [INFO] message produced to kafka
+2023-04-06T05:32:55.014Z [INFO] data saved successfully::
+2023-04-06T05:32:55.130Z [INFO] materialized_view created successfully
+2023-04-06T05:32:55.156Z [INFO] message produced to kafka
+2023-04-06T05:33:23.728Z [INFO] consumed message: 
+2023-04-06T05:33:23.729Z [INFO] consumed message: 
+2023-04-06T05:33:45.737Z [INFO] Hello, world!
+2023-04-06T05:33:47.401Z [INFO] Server listening on port 3000
+2023-04-06T05:33:47.431Z [INFO] MongoDB connected
+2023-04-06T05:34:42.417Z [INFO] Hello, world!
+2023-04-06T05:34:43.960Z [INFO] Server listening on port 3000
+2023-04-06T05:34:43.979Z [INFO] MongoDB connected
+2023-04-06T05:34:59.046Z [INFO] data saved successfully::
+2023-04-06T05:34:59.132Z [INFO] materialized_view created successfully
+2023-04-06T05:34:59.196Z [INFO] message produced to kafka
+2023-04-06T05:35:24.645Z [INFO] consumed message: 
+2023-04-06T05:35:51.033Z [INFO] Hello, world!
+2023-04-06T05:35:55.105Z [INFO] Server listening on port 3000
+2023-04-06T05:35:55.208Z [INFO] MongoDB connected
+2023-04-06T05:35:55.989Z [INFO] data saved successfully::
+2023-04-06T05:35:56.043Z [INFO] materialized_view created successfully
+2023-04-06T05:35:56.165Z [INFO] message produced to kafka
+2023-04-06T05:36:30.637Z [INFO] Hello, world!
+2023-04-06T05:36:30.712Z [INFO] Server listening on port 3000
+2023-04-06T05:36:30.744Z [INFO] MongoDB connected
+2023-04-06T05:36:40.460Z [INFO] Hello, world!
+2023-04-06T05:36:41.653Z [INFO] Server listening on port 3000
+2023-04-06T05:36:41.681Z [INFO] MongoDB connected
+2023-04-06T05:36:44.125Z [INFO] data saved successfully::
+2023-04-06T05:36:44.208Z [INFO] materialized_view created successfully
+2023-04-06T05:36:44.540Z [INFO] message produced to kafka
+2023-04-06T05:36:55.696Z [INFO] Hello, world!
+2023-04-06T05:36:55.776Z [INFO] Server listening on port 3000
+2023-04-06T05:36:55.798Z [INFO] MongoDB connected
+2023-04-06T05:37:14.499Z [INFO] Hello, world!
+2023-04-06T05:37:15.826Z [INFO] Server listening on port 3000
+2023-04-06T05:37:15.847Z [INFO] MongoDB connected
+2023-04-06T05:37:34.301Z [INFO] data saved successfully::
+2023-04-06T05:37:34.345Z [INFO] materialized_view created successfully
+2023-04-06T05:37:34.841Z [INFO] message produced to kafka
+2023-04-06T05:38:12.267Z [INFO] consumed message: 
+2023-04-06T05:38:12.288Z [INFO] consumed message: 
+2023-04-06T05:38:12.414Z [INFO] consumed message: 
+2023-04-06T05:39:29.818Z [INFO] Hello, world!
+2023-04-06T05:39:29.908Z [INFO] Server listening on port 3000
+2023-04-06T05:39:29.936Z [INFO] MongoDB connected
+2023-04-06T05:39:45.194Z [INFO] Hello, world!
+2023-04-06T05:39:45.270Z [INFO] Server listening on port 3000
+2023-04-06T05:39:45.291Z [INFO] MongoDB connected
+2023-04-06T05:39:58.573Z [INFO] Hello, world!
+2023-04-06T05:39:58.653Z [INFO] Server listening on port 3000
+2023-04-06T05:39:58.674Z [INFO] MongoDB connected
+2023-04-06T05:40:10.582Z [INFO] Hello, world!
+2023-04-06T05:40:10.665Z [INFO] Server listening on port 3000
+2023-04-06T05:40:10.694Z [INFO] MongoDB connected
+2023-04-06T05:40:37.337Z [INFO] Hello, world!
+2023-04-06T05:40:37.407Z [INFO] Server listening on port 3000
+2023-04-06T05:40:37.434Z [INFO] MongoDB connected
+2023-04-06T05:41:21.629Z [INFO] Hello, world!
+2023-04-06T05:41:21.710Z [INFO] Server listening on port 3000
+2023-04-06T05:41:21.743Z [INFO] MongoDB connected
+2023-04-06T05:41:27.674Z [INFO] Hello, world!
+2023-04-06T05:41:27.754Z [INFO] Server listening on port 3000
+2023-04-06T05:41:27.780Z [INFO] MongoDB connected
+2023-04-06T05:41:38.371Z [INFO] data saved successfully::
+2023-04-06T05:41:38.414Z [INFO] materialized_view created successfully
+2023-04-06T05:41:38.733Z [INFO] message produced to kafka
+2023-04-06T05:42:13.525Z [INFO] consumed message: 
+2023-04-06T05:42:49.132Z [INFO] Hello, world!
+2023-04-06T05:42:50.405Z [INFO] Server listening on port 3000
+2023-04-06T05:42:50.429Z [INFO] MongoDB connected
+2023-04-06T05:43:19.962Z [INFO] Hello, world!
+2023-04-06T05:43:20.061Z [INFO] Server listening on port 3000
+2023-04-06T05:43:20.099Z [INFO] MongoDB connected
+2023-04-06T05:43:42.551Z [INFO] data saved successfully::
+2023-04-06T05:43:42.606Z [INFO] materialized_view created successfully
+2023-04-06T05:43:43.205Z [INFO] message produced to kafka
+2023-04-06T05:44:17.377Z [INFO] consumed message: 
+2023-04-06T05:44:56.544Z [INFO] Hello, world!
+2023-04-06T05:44:58.260Z [INFO] Server listening on port 3000
+2023-04-06T05:44:58.281Z [INFO] MongoDB connected
+2023-04-06T05:45:56.964Z [INFO] Hello, world!
+2023-04-06T05:45:57.062Z [INFO] Server listening on port 3000
+2023-04-06T05:45:57.090Z [INFO] MongoDB connected
+2023-04-06T05:46:28.110Z [INFO] data saved successfully::
+2023-04-06T05:46:28.554Z [INFO] message produced to kafka
+2023-04-06T05:46:28.935Z [INFO] consumed message: 
+2023-04-06T05:46:28.962Z [INFO] materialized_view created successfully
+2023-04-06T05:55:42.530Z [INFO] Hello, world!
+2023-04-06T05:55:42.618Z [INFO] Server listening on port 3000
+2023-04-06T05:55:42.650Z [INFO] MongoDB connected
+2023-04-06T05:56:17.439Z [INFO] Hello, world!
+2023-04-06T05:56:20.298Z [INFO] Server listening on port 3000
+2023-04-06T05:56:20.340Z [INFO] MongoDB connected
+2023-04-06T05:57:27.420Z [INFO] data saved successfully::
+2023-04-06T05:57:27.730Z [INFO] message produced to kafka
+2023-04-06T05:57:28.094Z [INFO] consumed message: 
+2023-04-06T05:57:28.135Z [INFO] materialized_view created successfully
+2023-04-06T06:01:02.773Z [INFO] Hello, world!
+2023-04-06T06:01:04.483Z [INFO] Server listening on port 3000
+2023-04-06T06:01:04.508Z [INFO] MongoDB connected
+2023-04-06T06:01:32.427Z [INFO] Hello, world!
+2023-04-06T06:01:34.807Z [INFO] Server listening on port 3000
+2023-04-06T06:01:34.871Z [INFO] MongoDB connected
